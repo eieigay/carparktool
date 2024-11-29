@@ -84,7 +84,7 @@ def banner(console):
 
     os.system('cls' if os.name == 'nt' else 'clear')
 
-    print(render(base64.b64decode("Q1BNTnVrZXI=").decode('utf-8'), colors=['red', 'green']))
+    print(render(base64.b64decode("Q1BNVE9PTA==").decode('utf-8'), colors=['red', 'green']))
 
     console.print("[bold green][*] PTKChannel[/bold green]: Car Parking Multiplayer Hacking Tool.")
 
