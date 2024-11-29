@@ -86,9 +86,9 @@ def banner(console):
 
     print(render(base64.b64decode("Q1BNTnVrZXI=").decode('utf-8'), colors=['red', 'green']))
 
-    console.print("[bold green][*] CPMNuker[/bold green]: Car Parking Multiplayer Hacking Tool.")
+    console.print("[bold green][*] PTKChannel[/bold green]: Car Parking Multiplayer Hacking Tool.")
 
-    console.print(f"[bold green][*] Telegram[/bold green]: [bold blue]@{base64.b64decode("Q1BNTnVrZXJPZmZpY2lhbA==").decode('utf-8')}[/bold blue] or [bold blue]@{base64.b64decode("Q1BNTnVrZXJDaGF0").decode('utf-8')}[/bold blue].")
+    console.print(f"[bold green][*] Telegram[/bold green]: [bold blue]@{base64.b64decode("UFRLQ0hBVEdST1VQ==").decode('utf-8')}[/bold blue] or [bold blue]@{base64.b64decode("UFRLQ0hBVEdST1VQ").decode('utf-8')}[/bold blue].")
 
     console.print("[bold red]==================================================[/bold red]")
 
